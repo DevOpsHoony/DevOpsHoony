@@ -7,4 +7,4 @@
 
 <center>항상 새로운 것과 사람들을 궁금해하고 알아가는 ENFP 입니다!</center>
 
-![Hoony's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevOpsHoony&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevOpsHoony&show_icons=true&theme=radical)
